@@ -4,7 +4,7 @@ Course project for the probabilistic graphical model in CUHK, Shenzhen. A simple
 main.pdf is the report
 Sim1.m is the synthetic data, 
 Sim2.m is the real world data, 7 international stock indexs. 
-
+(Here KRM is not included, one can use MATLAB function regu_fir() directly)
 
 ### Reference: 
 #### Songsiri, Jitkomut, and Lieven Vandenberghe. "Topology selection in graphical models of autoregressive processes." The Journal of Machine Learning Research 11 (2010): 2671-2705.
